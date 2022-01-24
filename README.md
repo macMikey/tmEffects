@@ -15,8 +15,26 @@ https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EUX37B9D2RZ
 
 ## Version History:
 
+### 1.004 01/24/22
+
+by mikey
+
+* Improve the blocking/snapping behavior installed in 1.002, added support for multiple monitors
+
+
+
+### 1.003 01/19/22
+
+by mikey
+
+* Added blocking/snapping to prevent palette from getting stuck under screen furniture or off-screen
+
+
+
 ### 1.002 01/18/22
 
 by mikey
 
 * Remove the white filter in the header
+
+  
